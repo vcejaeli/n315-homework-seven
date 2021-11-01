@@ -1,0 +1,22 @@
+{
+  "name": "homework-seven",
+  "version": "1.0.0",
+  "description": "login page for jungle cook site. N315",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcejaeli/homework-six-n315-login-junglecook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcejaeli/homework-six-n315-login-junglecook/issues"
+  },
+  "homepage": "https://github.com/vcejaeli/homework-six-n315-login-junglecook#readme"
+}
